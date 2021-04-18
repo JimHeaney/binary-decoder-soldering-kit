@@ -5,6 +5,9 @@ I developed the Binary Decoder Soldering Kit to help students learn two of the c
  
 Once assembled, the kit serves as a learning tool to help understand base-2 counting systems. Students can enter an 8-bit number using the buttons along the bottom, and the corresponding base-10 number will appear on the screen. There are two additional buttons that allow students to increment and decrement the base-10 number, and watch as the binary changes.
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/binary-decoder-soldering-kit.html).
+
 ## Current Release
 Version 1.5
 
