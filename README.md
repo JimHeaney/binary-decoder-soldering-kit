@@ -5,11 +5,13 @@ I developed the Binary Decoder Soldering Kit to help students learn two of the c
  
 Once assembled, the kit serves as a learning tool to help understand base-2 counting systems. Students can enter an 8-bit number using the buttons along the bottom, and the corresponding base-10 number will appear on the screen. There are two additional buttons that allow students to increment and decrement the base-10 number, and watch as the binary changes.
 
+I am currently in the process of fulfilling Kickstarter pledges for this project, after which I'll have the kit available for sale on Tindie.
+
 ## Photos & Media
 Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/binary-decoder-soldering-kit.html).
 
 ## Current Release
-Version 1.5
+There are no stable versions for release. The latest WIP is Version 1.5
 
 ## Current State
 The Binary Decoder Soldering Kit is currently being developed to Version 1.5.
@@ -25,9 +27,7 @@ The latest assembly instructions can be found [here](http://www.venatormfg.com/v
 [Microchip Makes (2)](https://www.instagram.com/p/CIRudWhH7dh/)
 
 ## Support Me
-You can purchase the Voltmeter Soldering Kit on [Tindie](https://www.tindie.com/products/jimheaney/voltmeter-soldering-kit/).
-
-You can also buy me a coffee [here](https://www.buymeacoffee.com/jimheaney)!
+You can buy me a coffee [here](https://www.buymeacoffee.com/jimheaney)!
 
 ## License
 This project is licensed under the Creative Commons 4.0 Attribution-NonCommercial-ShareAlike. For more information, click [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
