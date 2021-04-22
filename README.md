@@ -17,7 +17,7 @@ There are no stable versions for release. The latest WIP is Version 1.5
 The Binary Decoder Soldering Kit is currently being developed to Version 1.5.
 
 ## Instructions & Further Documentation
-The latest assembly instructions can be found [here](http://www.venatormfg.com/voltmeter-solder-kit-instructions.html).
+Further documentation coming soon...
 
 ## Featured In...
 [Hackster](https://www.hackster.io/news/this-pcb-kit-translates-binary-and-base-10-numbers-ed3c803cc4cc)
