@@ -1,7 +1,7 @@
 # Binary Decoder Soldering Kit
 
 ## Overview
-I developed the Binary Decoder Soldering Kit to help students learn two of the concepts I struggled the most with electronics and programming: SMD soldering and base-2 numbers. The kit includes more than 30 1206 SMD components, as well as 3 SOIC packages to practice different soldering techniques on.
+I developed the Binary Decoder Soldering Kit to help students learn two of the concepts I struggled the most with electronics and programming: SMD soldering and base-2 numbers. The kit includes more than 30 1206 SMD components, as well as 2 SOIC packages to practice different soldering techniques on.
  
 Once assembled, the kit serves as a learning tool to help understand base-2 counting systems. Students can enter an 8-bit number using the buttons along the bottom, and the corresponding base-10 number will appear on the screen. There are two additional buttons that allow students to increment and decrement the base-10 number, and watch as the binary changes.
 
