@@ -3,9 +3,14 @@
 //CC-BY-SA-NC
 
 //Settings:
-const int mode = 0; //Set Display Mode, 0 for cathide, 1 for anode.
-const int bright = 20; //Sets delay on multiplexed display. Setting higher will increase brightness but may introduce flicker.
+const int mode = 0; //Set Display Mode, 0 for common cathide, 1 for anode.
+const int bright = 1000; //Sets delay on multiplexed display. Setting higher will increase brightness but may introduce flicker.
 const int bitbright = 0; // Sets the duty cycle of the binary LEDs. Higher number is a lower duty cycle.
+
+//Default Settings:
+//Red: 1, 50, 0
+//Blue: 0, 50, 5
+//Green: 0, 1000, 0
 
 #include <Arduino.h>
 #include <Wire.h>
@@ -16,7 +21,7 @@ byte integer = 0;
 
 //Delay time
 unsigned long delaytime = 0;
-
+  
 //Number button debouncing integers
 bool upstate = 0;
 bool downstate = 0;
