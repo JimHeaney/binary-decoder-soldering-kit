@@ -12,9 +12,10 @@ const int bitbright = 0; // Sets the duty cycle of the binary LEDs. Higher numbe
 //Blue: 0, 50, 5
 //Green: 0, 1000, 0
 
+#include <Adafruit_MCP23X17.h>
 #include <Arduino.h>
 #include <Wire.h>
-#include "Adafruit_MCP23017.h"
+
 
 //Number
 byte integer = 0;
@@ -26,7 +27,7 @@ unsigned long delaytime = 0;
 bool upstate = 0;
 bool downstate = 0;
 
-//Byte button debouncing integers
+//Byte button debouncing integers 
 bool bit0state = 0;
 bool bit1state = 0;
 bool bit2state = 0;
@@ -96,11 +97,11 @@ const int dig3 = 7;
 int buttons = 0;
 int bitbrightcurrent = 0;
 
-Adafruit_MCP23017 mcp;
+Adafruit_MCP23X17 mcp;
 
 void setup() 
 {
-  mcp.begin();
+  mcp.begin_I2C();
 
   //Set all byte LEDs as outputs
   mcp.pinMode(Bit0O, OUTPUT);
